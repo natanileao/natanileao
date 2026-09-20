@@ -18,7 +18,7 @@
 
 Sou **Desenvolvedora de Software** e acadêmica de **Engenharia de Software**, apaixonada por tecnologia, design e criação de soluções digitais.
 
-Atuo através da **NL Engenharia de Software**, desenvolvendo soluções para empresas e profissionais que precisam transformar uma ideia ou necessidade em um produto digital funcional.
+Atuo desenvolvendo soluções para empresas e profissionais que precisam transformar uma ideia ou necessidade em um produto digital funcional.
 
 > 💡 **Tecnologia não é apenas código. É uma ferramenta para resolver problemas.**
 
@@ -45,19 +45,6 @@ Atuo através da **NL Engenharia de Software**, desenvolvendo soluções para em
 
 ---
 
-## 💼 NL ENGENHARIA DE SOFTWARE
-
-**Soluções digitais personalizadas para transformar necessidades em tecnologia.**
-
-🌐 Sites e Landing Pages  
-⚙️ Sistemas e aplicações web  
-📱 Aplicações digitais  
-🎨 UX/UI Design  
-🔌 APIs e integrações  
-🗄️ Banco de dados
-
----
-
 ## 🚀 PROJETOS EM DESTAQUE
 
 ### 📖 Agenda Pastoral
@@ -68,22 +55,13 @@ Projeto de prototipação de uma solução de educação financeira com apoio de
 
 ---
 
-## 📚 ATUALMENTE ESTUDANDO
+## 💻 GITHUB
 
 <div align="center">
 
-`React` · `TypeScript` · `Node.js` · `APIs REST` · `PostgreSQL` · `Prisma` · `Arquitetura de Software` · `UX/UI`
-
-</div>
-
----
-
-## 📊 GITHUB
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=natanileao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=855AC1&icon_color=855AC1&text_color=EAE0F6&ring_color=855AC1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanileao&layout=compact&hide_border=true&bg_color=0D1117&title_color=855AC1&text_color=EAE0F6" />
+<img src="https://img.shields.io/badge/Desenvolvimento_Ativo-855AC1?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projetos_Web-37246E?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Code%20%26%20Design-EAE0F6?style=for-the-badge&logo=figma&logoColor=37246E" />
 
 </div>
 
