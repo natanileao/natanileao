@@ -25,13 +25,16 @@ Atuo desenvolvendo soluções para empresas e profissionais que precisam transfo
 ---
 
 ## 🚀 O QUE EU DESENVOLVO
-
 | 💻 Desenvolvimento | 🎨 Experiência | 🧩 Soluções |
 |---|---|---|
 | Sites profissionais | UX/UI Design | Sistemas personalizados |
 | Landing Pages | Prototipação | Aplicações Web |
-| Front-end | Interfaces responsivas | APIs e Back-end |
-| Páginas de vendas | Design de interfaces | Banco de dados |
+| Front-end | Interfaces responsivas | Aplicativos Mobile |
+| Páginas de vendas | Design de interfaces | Sistemas de gestão |
+| Back-end | Experiência do usuário | APIs e integrações |
+| Aplicações Web | Design de interfaces | Banco de dados |
+| Sistemas e aplicativos | Arquitetura de interfaces | Soluções sob medida |
+
 
 ---
 
